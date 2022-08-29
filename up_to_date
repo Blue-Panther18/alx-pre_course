@@ -1,0 +1,8 @@
+git init
+git add && git add .
+git commit -m 'message'
+git push
+git pull
+git branch {name} && git branch -M {new name}
+git merge {name}
+
